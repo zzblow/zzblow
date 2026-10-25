@@ -22,13 +22,21 @@
 ## stack
 
 ![Velocity](https://img.shields.io/badge/-Velocity-222?style=flat-square)
+![Paper](https://img.shields.io/badge/-PaperMC-222?style=flat-square)
 ![LuckPerms](https://img.shields.io/badge/-LuckPerms-222?style=flat-square)
 ![DeluxeMenus](https://img.shields.io/badge/-DeluxeMenus-222?style=flat-square)
 ![TAB](https://img.shields.io/badge/-TAB-222?style=flat-square)
 ![PlaceholderAPI](https://img.shields.io/badge/-PlaceholderAPI-222?style=flat-square)
+![EssentialsX](https://img.shields.io/badge/-EssentialsX-222?style=flat-square)
+![FancyHolograms](https://img.shields.io/badge/-FancyHolograms-222?style=flat-square)
+![FancyNPCs](https://img.shields.io/badge/-FancyNPCs-222?style=flat-square)
+![MiniMOTD](https://img.shields.io/badge/-MiniMOTD-222?style=flat-square)
+![Vault](https://img.shields.io/badge/-Vault-222?style=flat-square)
+![ExcellentCrates](https://img.shields.io/badge/-ExcellentCrates-222?style=flat-square)
 ![Pterodactyl](https://img.shields.io/badge/-Pterodactyl-222?style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-222?style=flat-square)
 ![Discord.js](https://img.shields.io/badge/-Discord.js-222?style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-222?style=flat-square)
 
 ## stats
 
