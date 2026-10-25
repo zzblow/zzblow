@@ -1,47 +1,46 @@
-# Hello! 👋 I'm zzblow
+# yo, i'm zzblow
 
-[![Profile Views](https://komarev.com/ghpvc/?username=BlowTobacco&style=flat-square&color=blue)](https://github.com/BlowTobacco)
-[![GitHub Followers](https://img.shields.io/github/followers/BlowTobacco?label=Followers&style=flat-square)](https://github.com/BlowTobacco?tab=followers)
----
+15yo Minecraft configurator from Romania. 4+ years making servers look clean and run smooth.
 
-## 🛠️ Who Am I?
-- **Minecraft Configurator** 🎮:
-  - I'm a 4-year experienced Minecraft configurator.
-  - Specializing in server configurations.
-  - I've helped configure servers like:
-  
-- **2024**
-  - `play.dragonromania.ro`
+## what i do
 
-- **2025**
-  - `play.terramc.ro`
-  - `play.mcshock.fun`
-  - `[PRIVATE SERVER]`
-  - `play.dragonmc.ro`
-  - `play.ludeon.net`
-  - `peachmc.eu`
-  - `play.blazedland.ro`
-  - `play.evolutionmc.ro`
-  - `play.craftaddicted.ro`
-  - `romka.cc (soon developments)`
+- Full server setups (LuckPerms, DeluxeMenus, TAB, holograms, economy, menus)
+- TAB layouts, scoreboards, MOTDs, proxies, lobbies
+- Discord bots (tickets, orders, reviews) with Node.js
+- Bug fixing and rescue jobs for broken networks
 
+## servers i've worked on
 
----
+`play.terramc.ro` · `play.mcshock.fun` · `guster.ro` · `play.bloxen.net` · `play.dragonmc.ro` · `play.ludeon.net` · `peachmc.eu` · `play.blazedland.ro` · `play.evolutionmc.ro` · `play.decourmc.net` · + more
 
-## ⌛ What am i doing now?
-  - Nothing. You can hire me for your discord and minecraft
-  
----
+## resources
 
-## 🔧 Technologies & Skills
-| Technology / Skill            | Level                     |
-|-------------------------------|---------------------------|
-| **Minecraft Server Configuration** | 🟩 Advanced               |
-| **Discord.js** | 🟩 Advanced  |
-| **Minecraft Plugin Creation** | 🟨 Learning in progress  |
+26 resources on BuiltByBit (TAB configs, holograms, bundles and more):
 
----
+**https://builtbybit.com/creators/blowtobacco.659313/**
 
-## 🌐 Contact me
-- **Website**: In progress
-- **Discord**: blutobako
+## stack
+
+![Velocity](https://img.shields.io/badge/-Velocity-222?style=flat-square)
+![LuckPerms](https://img.shields.io/badge/-LuckPerms-222?style=flat-square)
+![DeluxeMenus](https://img.shields.io/badge/-DeluxeMenus-222?style=flat-square)
+![TAB](https://img.shields.io/badge/-TAB-222?style=flat-square)
+![PlaceholderAPI](https://img.shields.io/badge/-PlaceholderAPI-222?style=flat-square)
+![Pterodactyl](https://img.shields.io/badge/-Pterodactyl-222?style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-222?style=flat-square)
+![Discord.js](https://img.shields.io/badge/-Discord.js-222?style=flat-square)
+
+## stats
+
+![zzblow's stats](https://github-readme-stats.vercel.app/api?username=zzblow&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzblow&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
+
+## contact
+
+- Website: **https://zzblow.dev**
+- Discord: **zzblow**
+- BuiltByBit: **https://builtbybit.com/creators/blowtobacco.659313/**
+
+Commissions open. Fast replies, usually nights.
+
+![views](https://komarev.com/ghpvc/?username=zzblow&color=blue&style=flat-square)
